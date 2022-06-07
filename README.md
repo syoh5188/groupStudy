@@ -3,7 +3,7 @@ Group Study Records
 
 ## **To do** (~’22.06.07)
 
-- [ ]  백준 문제 하기 : [https://www.acmicpc.net/problem/tags](https://www.acmicpc.net/problem/tags)
+- [x]  백준 문제 하기 : [https://www.acmicpc.net/problem/tags](https://www.acmicpc.net/problem/tags)
 - [x]  [https://dacon.io/competitions/open/235698/overview/description](https://dacon.io/competitions/open/235698/overview/description) : Lv1. 의사결정회귀나무로 따릉이 데이터 예측하기
 
 # **History**
