@@ -11,7 +11,7 @@
 ### Backjoon codes
 - https://www.acmicpc.net/problemset
 
-**File** : codetest_bj_Until0607.ipynb
+**File** : codetest_bj.ipynb
 
 
 ### Programmers
