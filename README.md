@@ -1,10 +1,12 @@
 # Group Study Since 
 Group Study Records
 
-## **To do** (~’22.06.14)
+## **To do** (~’22.06.27)
 
 - [ ]  백준 문제 하기 : [https://www.acmicpc.net/problem/tags](https://www.acmicpc.net/problem/tags)
 - [ ]  [https://dacon.io/competitions/open/235698/overview/description](https://dacon.io/competitions/open/235698/overview/description) : Lv1. 의사결정회귀나무로 따릉이 데이터 예측하기 -> 개인적으로 시각화 및 EDA, Modeling 추가로 해보기
+- [ ]  코딩 테스트 인강 듣기
+- [ ]  코딩테스트 [백준] : 자료구조, 트리, 힙, 스택, 큐 → 각자 풀 수 있는 문제 3개씩 선택해서 풀어오기 / 물어봤을 때 답변해줄 수 있는 수준까지 이해해오기
 
 # **History**
 
@@ -43,7 +45,22 @@ Group Study Records
 - [x]  Titanic 04-01-03. 모델 생성 실습
 
 
-~’22.06.04
+~’22.06.07
 
 - [x]  백준 문제 풀기 : 블랙잭
 - [x]  Lv1. 의사결정회귀나무로 따릉이 데이터 예측하기
+
+
+~’22.06.14
+
+- [x]  백준 문제 풀기 : 블랙잭
+- [x]  Lv1. 의사결정회귀나무로 따릉이 데이터 예측하기
+
+
+~’22.06.21
+
+- [ ]  백준 문제 하기 : [https://www.acmicpc.net/problem/tags](https://www.acmicpc.net/problem/tags)
+- [ ]  [https://dacon.io/competitions/open/235698/overview/description](https://dacon.io/competitions/open/235698/overview/description) : Lv1. 의사결정회귀나무로 따릉이 데이터 예측하기 -> 개인적으로 시각화 및 EDA, Modeling 추가로 해보기
+
+
+
